@@ -1,0 +1,92 @@
+h1 {
+text-transform: uppercase;
+font-family: "Bitter"; sans-serif;
+color: #0D2C40;  
+letter-spacing: 1px;
+font-weight: 200; 
+font-size: 45px
+margin: 0;
+}
+header {
+	background-color: #F15B31;
+	font-color: #FFFFFF;
+	padding: 30px 20px 30px 20px;
+}
+nav {
+	background-color: #00A6B3;
+	font-family: "Bitter", sans-serif;
+  	font-weight: 400;
+  	color: #FFFFFF;
+  	text-transform: uppercase;
+  	font-size: 18px;
+  	letter-spacing: 1px;
+  	padding: 20px 0;
+}
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+a {
+	text-decoration: none;
+	font-family: "Bitter", sans-serif;
+	margin: 0 20px;
+	color: #FFFFFF;
+	border-bottom: 2px solid transparent;
+}
+a:hover {
+	border-color: white;
+}
+h2 {
+font-family: "Bitter"; sans-serif; 
+color: #0D2C40; 
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: 600; 
+font-size: 20px
+}
+p {
+  font-family: "Bitter";
+  line-height: 26px;
+  font-size: 18px;
+}
+img {
+	margin: 40px 8px 0 8px;
+}
+body {
+text-align: center;
+margin: 0;
+}
+footer {
+	text-transform: uppercase;
+	padding: 0 20px;
+	background-color: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+	font-family: "Bitter";
+}
+.copyright {
+  float: left;
+}
+
+.message {
+  float: right;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+  }
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
+.links {
+  margin: 0px 20px;
+  border-bottom: 2px solid transparent;
+}
